@@ -1,0 +1,50 @@
+ 1. Write a program to reverse a word using loop? (Not to use inbuilt functions)
+Sample Input: 
+String: TEMPLE
+Sample Output:
+Reverse String: ELPMET
+Test cases:
+1. SIGN UP
+2. AT-LEAST
+3. 1245
+4. !@#$%
+5. 145*999=144855
+2. Write a program to check the entered user name is valid or not. Get both the inputs 
+from the user.
+Sample Input:
+Enter the user name: Saveetha@789
+Reenter the user name: Saveetha@123
+Sample Output:
+User name is Invalid
+3. Write a program to find whether the person is eligible for vote or not. And if that 
+particular person is not eligible, then print how many years are left to be eligible.
+Sample Input:
+Enter your age: 7
+Sample output:
+You are allowed to vote after 11 years
+Test cases:
+1. 25
+2. Eighteen
+3. 12
+4. -18
+5. 34.5
+4. Write a progr…
+[2:16 PM, 10/1/2022] Thirumalai: Example 2:
+Input: day = 18, month = 7, year = 1999
+Output: "Sunday"
+Example 3:
+Input: day = 15, month = 8, year = 1993
+Output: "Sunday"
+12. Write a program to find the number of student users in the college, get the total users, 
+staff users (15:1) details from the client. Note for every staff user (3:1) there is one Nonteaching staff user assigned by default. 
+Sample Input:
+Total Users: 856
+Staff Users: 126
+Sample Output:
+Student Users: 688
+Test Cases:
+1. Total User: 0
+2. Total User: -143
+3. Total User: 1026, Staff User: 1026
+4. Total User: 450, Staff User: 540
+5. Total User: 600, Staff User: 45
